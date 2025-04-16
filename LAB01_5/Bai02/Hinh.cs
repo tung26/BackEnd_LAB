@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Bai02
 {
-    internal class Hinh
+    abstract class Hinh
     {
-
+        public abstract double ChuVi();
+        public abstract double DienTich();
     }
 }
