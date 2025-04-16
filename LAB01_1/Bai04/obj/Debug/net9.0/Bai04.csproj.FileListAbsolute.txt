@@ -1,0 +1,14 @@
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.AssemblyInfoInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.AssemblyInfo.cs
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\bin\Debug\net9.0\Bai04.exe
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\bin\Debug\net9.0\Bai04.deps.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\bin\Debug\net9.0\Bai04.runtimeconfig.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\bin\Debug\net9.0\Bai04.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\bin\Debug\net9.0\Bai04.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\refint\Bai04.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\Bai04.genruntimeconfig.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_1\Bai04\obj\Debug\net9.0\ref\Bai04.dll
