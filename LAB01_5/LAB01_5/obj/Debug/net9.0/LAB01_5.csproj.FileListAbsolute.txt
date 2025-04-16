@@ -1,0 +1,15 @@
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.AssemblyInfoInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.AssemblyInfo.cs
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.sourcelink.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\bin\Debug\net9.0\LAB01_5.exe
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\bin\Debug\net9.0\LAB01_5.deps.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\bin\Debug\net9.0\LAB01_5.runtimeconfig.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\bin\Debug\net9.0\LAB01_5.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\bin\Debug\net9.0\LAB01_5.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\refint\LAB01_5.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\LAB01_5.genruntimeconfig.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_5\LAB01_5\obj\Debug\net9.0\ref\LAB01_5.dll
