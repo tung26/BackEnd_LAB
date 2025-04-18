@@ -29,10 +29,18 @@ namespace LAB01_3
 
         public void nhap()
         {
-            Console.Write("Nhập tử số: ");
-            TuSo = int.Parse(Console.ReadLine());
-            Console.Write("Nhập mẫu số: ");
-            MauSo = int.Parse(Console.ReadLine());
+            try
+            {
+                Console.Write("Nhập tử số: ");
+                TuSo = int.Parse(Console.ReadLine());
+                Console.Write("Nhập mẫu số: ");
+                MauSo = int.Parse(Console.ReadLine());
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public void xuat()

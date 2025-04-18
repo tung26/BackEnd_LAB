@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai13\\qlptgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|solutionrelative:bai13\\qlptgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|solutionrelative:bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai13\\xetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F444B9C-38C6-4303-99BD-0C55D7EB3374}|Bai13\\Bai13.csproj|solutionrelative:bai13\\xetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\Program.cs",
-              "RelativeDocumentMoniker": "Bai13\\Program.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\Program.cs",
-              "RelativeToolTip": "Bai13\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T14:46:56.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QLPTGT.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\QLPTGT.cs",
-              "RelativeDocumentMoniker": "Bai13\\QLPTGT.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\QLPTGT.cs",
-              "RelativeToolTip": "Bai13\\QLPTGT.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwC8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T14:44:59.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "XeTai.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\XeTai.cs",
-              "RelativeDocumentMoniker": "Bai13\\XeTai.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai13\\XeTai.cs",
-              "RelativeToolTip": "Bai13\\XeTai.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T14:43:45.019Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
