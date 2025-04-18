@@ -1,0 +1,15 @@
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\bin\Debug\net9.0\Bai18.exe
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\bin\Debug\net9.0\Bai18.deps.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\bin\Debug\net9.0\Bai18.runtimeconfig.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\bin\Debug\net9.0\Bai18.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\bin\Debug\net9.0\Bai18.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.AssemblyInfoInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.AssemblyInfo.cs
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.sourcelink.json
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\refint\Bai18.dll
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.pdb
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\Bai18.genruntimeconfig.cache
+D:\WorkSpaces\LearnIT\DNU\Parts\park-6\Back-end\LAB\LAB01_3\Bai18\obj\Debug\net9.0\ref\Bai18.dll

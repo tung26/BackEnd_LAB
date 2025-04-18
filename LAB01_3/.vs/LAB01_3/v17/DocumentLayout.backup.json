@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|solutionrelative:bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai16\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|solutionrelative:bai16\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai16\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10549577-59F5-4F85-BE8C-ADE10D467F30}|Bai16\\Bai16.csproj|solutionrelative:bai16\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TamGiac.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\TamGiac.cs",
-              "RelativeDocumentMoniker": "Bai16\\TamGiac.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\TamGiac.cs",
-              "RelativeToolTip": "Bai16\\TamGiac.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswEUAAAAgAAAAAAAAAA==",
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Nguoi.cs",
+              "RelativeDocumentMoniker": "Bai18\\Nguoi.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Nguoi.cs",
+              "RelativeToolTip": "Bai18\\Nguoi.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T13:48:26.066Z",
+              "WhenOpened": "2025-04-18T16:17:01.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Diem.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\Diem.cs",
-              "RelativeDocumentMoniker": "Bai16\\Diem.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\Diem.cs",
-              "RelativeToolTip": "Bai16\\Diem.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Title": "CoQuan.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
+              "RelativeDocumentMoniker": "Bai18\\CoQuan.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
+              "RelativeToolTip": "Bai18\\CoQuan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA0wBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T13:46:57.672Z",
+              "WhenOpened": "2025-04-18T14:57:46.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\Program.cs",
-              "RelativeDocumentMoniker": "Bai16\\Program.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai16\\Program.cs",
-              "RelativeToolTip": "Bai16\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Program.cs",
+              "RelativeDocumentMoniker": "Bai18\\Program.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Program.cs",
+              "RelativeToolTip": "Bai18\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T13:44:36.058Z",
+              "WhenOpened": "2025-04-18T14:26:43.743Z",
               "EditorCaption": ""
             }
           ]
