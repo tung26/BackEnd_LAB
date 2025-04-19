@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -39,28 +35,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CoQuan.cs",
               "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
               "RelativeDocumentMoniker": "Bai18\\CoQuan.cs",
               "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
               "RelativeToolTip": "Bai18\\CoQuan.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA0wBkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIA8wC8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T14:57:46.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Program.cs",
-              "RelativeDocumentMoniker": "Bai18\\Program.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Program.cs",
-              "RelativeToolTip": "Bai18\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T14:26:43.743Z",
               "EditorCaption": ""
             }
           ]
