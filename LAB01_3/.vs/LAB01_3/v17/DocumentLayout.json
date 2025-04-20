@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20414D51-11D5-4B2B-8602-073B89499A0D}|Bai19\\Bai19.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20414D51-11D5-4B2B-8602-073B89499A0D}|Bai19\\Bai19.csproj|solutionrelative:bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\dagiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\dagiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\dany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\dany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaNY.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaNY.cs",
+              "RelativeDocumentMoniker": "Bai20\\DaNY.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaNY.cs",
+              "RelativeToolTip": "Bai20\\DaNY.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:07:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaGiaDinh.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaGiaDinh.cs",
+              "RelativeDocumentMoniker": "Bai20\\DaGiaDinh.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaGiaDinh.cs",
+              "RelativeToolTip": "Bai20\\DaGiaDinh.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:00:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoiVien.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\HoiVien.cs",
+              "RelativeDocumentMoniker": "Bai20\\HoiVien.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\HoiVien.cs",
+              "RelativeToolTip": "Bai20\\HoiVien.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:56:44.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai19\\Program.cs",
-              "RelativeDocumentMoniker": "Bai19\\Program.cs",
-              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai19\\Program.cs",
-              "RelativeToolTip": "Bai19\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\Program.cs",
+              "RelativeDocumentMoniker": "Bai20\\Program.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\Program.cs",
+              "RelativeToolTip": "Bai20\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwGEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T08:16:41.506Z",
+              "WhenOpened": "2025-04-20T08:56:14.388Z",
               "EditorCaption": ""
             }
           ]

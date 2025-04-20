@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\",
+  "WorkspaceRootPath": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_3\\bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE732814-5F9D-4C14-9030-399364940014}|Bai18\\Bai18.csproj|solutionrelative:bai18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\dagiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\dagiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\dany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\dany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|e:\\workspace\\learn_it\\parks\\park-6\\back-end\\backend_lab\\lab01_3\\bai20\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62722AF9-0DB7-4AE0-BAA4-9CD15D726FE3}|Bai20\\Bai20.csproj|solutionrelative:bai20\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaNY.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaNY.cs",
+              "RelativeDocumentMoniker": "Bai20\\DaNY.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaNY.cs",
+              "RelativeToolTip": "Bai20\\DaNY.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:07:47.677Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Nguoi.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Nguoi.cs",
-              "RelativeDocumentMoniker": "Bai18\\Nguoi.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\Nguoi.cs",
-              "RelativeToolTip": "Bai18\\Nguoi.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAewCIAAAA/AAAAAAAAAA==",
+              "Title": "DaGiaDinh.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaGiaDinh.cs",
+              "RelativeDocumentMoniker": "Bai20\\DaGiaDinh.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\DaGiaDinh.cs",
+              "RelativeToolTip": "Bai20\\DaGiaDinh.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:17:01.547Z",
+              "WhenOpened": "2025-04-20T09:00:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoiVien.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\HoiVien.cs",
+              "RelativeDocumentMoniker": "Bai20\\HoiVien.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\HoiVien.cs",
+              "RelativeToolTip": "Bai20\\HoiVien.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:56:44.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CoQuan.cs",
-              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
-              "RelativeDocumentMoniker": "Bai18\\CoQuan.cs",
-              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_3\\Bai18\\CoQuan.cs",
-              "RelativeToolTip": "Bai18\\CoQuan.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA8wC8AAAA+AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\Program.cs",
+              "RelativeDocumentMoniker": "Bai20\\Program.cs",
+              "ToolTip": "E:\\WorkSpace\\learn_IT\\parks\\park-6\\Back-end\\BackEnd_LAB\\LAB01_3\\Bai20\\Program.cs",
+              "RelativeToolTip": "Bai20\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwGEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T14:57:46.115Z",
+              "WhenOpened": "2025-04-20T08:56:14.388Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\bin\Debug\net9.0\Bai19.exe
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\bin\Debug\net9.0\Bai19.deps.json
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\bin\Debug\net9.0\Bai19.runtimeconfig.json
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\bin\Debug\net9.0\Bai19.dll
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\bin\Debug\net9.0\Bai19.pdb
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.AssemblyInfoInputs.cache
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.AssemblyInfo.cs
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.csproj.CoreCompileInputs.cache
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.sourcelink.json
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.dll
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\refint\Bai19.dll
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.pdb
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\Bai19.genruntimeconfig.cache
+E:\WorkSpace\learn_IT\parks\park-6\Back-end\BackEnd_LAB\LAB01_3\Bai19\obj\Debug\net9.0\ref\Bai19.dll
