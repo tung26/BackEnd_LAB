@@ -21,7 +21,7 @@ internal class Program
                 Console.WriteLine("|2. Các học sinh nam điểm kic thuật >= 8. |");
                 Console.WriteLine("|3. Danh sách học sinh Nam -> Nữ.         |");
                 Console.WriteLine("+-----------------------------------------+");
-                Console.Write("Nhập lựa chọn: ")
+                Console.Write("Nhập lựa chọn: ");
                 select = int.Parse(Console.ReadLine());
 
                 Console.Clear();
