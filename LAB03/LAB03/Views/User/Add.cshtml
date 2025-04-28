@@ -1,0 +1,32 @@
+﻿@model User
+<h3>Thêm người dùng</h3>
+<form action="/User/Add" method="post">
+	<div class="form-group">
+		<label asp-for="Id" class="col-form-label"></label>
+		<input asp-for="Id" class="form-control" />
+		<span asp-validation-for="Id" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Username" class="col-form-label"></label>
+		<input asp-for="Username" class="form-control" type="text" />
+		<span asp-validation-for="Username" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Password" class="col-form-label"></label>
+		<input asp-for="Password" class="form-control" type="password" />
+		<span asp-validation-for="Password" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Phone" class="col-form-label"></label>
+		<input asp-for="Phone" class="form-control" type="text" />
+		<span asp-validation-for="Phone" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Email" class="col-form-label"></label>
+		<input asp-for="Email" class="form-control" type="email" />
+		<span asp-validation-for="Email" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<button class="btn btn-primary" type="submit">Thêm mới</button>
+	</div>
+</form>

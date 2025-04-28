@@ -5,7 +5,6 @@
 	ViewData["Title"] = "User";
 }
 
-iv class="container" action="POST">
 <h3>DANH SÁCH NGƯỜI DÙNG</h3>
 <a class="btn btn-primary mb-2" href="/User/Add">Thêm mới</a>
 <table class="table table-bordered">
@@ -30,7 +29,7 @@ iv class="container" action="POST">
 				<td>@item.Email</td>
 				<td>
 					<div>
-						<a class="btn btn-warning" href="/User/Edit" onclick="/User/Edit">Edit</a>
+						<a class="btn btn-warning" href="/User/Edit/?id=@item.Id" onclick="/User/Edit">Edit</a>
 						<a class="btn btn-danger" onclick="/User/Delete">Delete</a>
 					</div>
 				</td>
