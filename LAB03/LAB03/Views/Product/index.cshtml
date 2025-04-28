@@ -1,0 +1,21 @@
+﻿
+@using LAB03.Models;
+@model List<Product>;
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="card" style="width: 100%; display: flex;">
+    <div class="row">
+        @foreach(var item in Model)
+        {
+            <div class="card-body col col-md-3" style="border: 1px solid #ccc; margin-left: 4px;">
+                <h5 class="card-title">@item.Id</h5>
+                <p class="card-text">@item.Name</p>
+                <p class="card-text">@item.Price</p>
+                <a href="/Product/Detail?q=@item.Id" class="btn btn-primary">Chi tiết</a>
+            </div>
+        }
+    </div>
+</div>

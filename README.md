@@ -10,5 +10,6 @@
 |LAB01.1 |C       |
 |LAB01.2 |C       |
 |LAB01.3 |C       |
-|LAB01.4 |N       |
+|LAB01.4 |I       |
 |LAB01.5 |C       |
+|LAB03   |C       |

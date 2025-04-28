@@ -1,0 +1,14 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container">
+    <h2>Chi tiết sản phẩm</h2>
+    <p><strong>ID:</strong> @Model.Id</p>
+    <p><strong>Tên:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+
+    <a href="/Product/Index" class="btn btn-secondary">Quay lại</a>
+</div>

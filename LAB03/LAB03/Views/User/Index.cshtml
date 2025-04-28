@@ -1,0 +1,42 @@
+﻿@using LAB03.Models;
+@model List<User>
+
+@{
+	ViewData["Title"] = "User";
+}
+
+iv class="container" action="POST">
+<h3>DANH SÁCH NGƯỜI DÙNG</h3>
+<a class="btn btn-primary mb-2" href="/User/Add">Thêm mới</a>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>username</th>
+			<th>password</th>
+			<th>phone</th>
+			<th>email</th>
+			<th>action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Username</td>
+				<td>@item.Password</td>
+				<td>@item.Phone</td>
+				<td>@item.Email</td>
+				<td>
+					<div>
+						<a class="btn btn-warning" href="/User/Edit" onclick="/User/Edit">Edit</a>
+						<a class="btn btn-danger" onclick="/User/Delete">Delete</a>
+					</div>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+</div>
+

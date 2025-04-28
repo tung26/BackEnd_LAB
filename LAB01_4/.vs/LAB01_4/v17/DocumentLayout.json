@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED770EDD-4307-4F04-825D-31DADB00BE5A}|LAB01_4\\LAB01_4.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_4\\lab01_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED770EDD-4307-4F04-825D-31DADB00BE5A}|LAB01_4\\LAB01_4.csproj|solutionrelative:lab01_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED770EDD-4307-4F04-825D-31DADB00BE5A}|LAB01_4\\LAB01_4.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab01_4\\lab01_4\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED770EDD-4307-4F04-825D-31DADB00BE5A}|LAB01_4\\LAB01_4.csproj|solutionrelative:lab01_4\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_4\\LAB01_4\\User.cs",
+              "RelativeDocumentMoniker": "LAB01_4\\User.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_4\\LAB01_4\\User.cs",
+              "RelativeToolTip": "LAB01_4\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:03:41.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_4\\LAB01_4\\Program.cs",
+              "RelativeDocumentMoniker": "LAB01_4\\Program.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB01_4\\LAB01_4\\Program.cs",
+              "RelativeToolTip": "LAB01_4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:50:57.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
