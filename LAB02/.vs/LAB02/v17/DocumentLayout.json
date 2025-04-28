@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab02\\lab02\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab02\\lab02\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab02\\lab02\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab02\\lab02\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B28D822-2F06-49EF-8E41-07429630FFE0}|LAB02\\LAB02.csproj|solutionrelative:lab02\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T14:09:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Add.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Add.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\Todo\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T13:59:36.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T13:56:25.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "LAB02\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB02\\LAB02\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "LAB02\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:56:16.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,8 +19,9 @@ namespace Asynchronous
                 HttpResponseMessage response = await client.GetAsync("https://680e54a2c47cb8074d92c651.mockapi.io/userLab");
                 string data = await response.Content.ReadAsStringAsync();
                 Console.WriteLine(data);
+
                 var result = JsonSerializer.Deserialize<List<User>>(data);
-                return result;
+                return result ?? new List<User>();
             }
             catch (Exception ex)
             {
