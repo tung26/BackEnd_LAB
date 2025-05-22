@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB06\\LAB06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70690D71-6FDE-4DC2-9581-23381D9BC84A}|LAB06\\LAB06.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab06\\lab06\\lab06\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70690D71-6FDE-4DC2-9581-23381D9BC84A}|LAB06\\LAB06.csproj|solutionrelative:lab06\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70690D71-6FDE-4DC2-9581-23381D9BC84A}|LAB06\\LAB06.csproj|d:\\workspaces\\learnit\\dnu\\parts\\park-6\\back-end\\lab\\lab06\\lab06\\lab06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70690D71-6FDE-4DC2-9581-23381D9BC84A}|LAB06\\LAB06.csproj|solutionrelative:lab06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB06\\LAB06\\LAB06\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB06\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB06\\LAB06\\LAB06\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LAB06\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAM0AAAAAAAAAAADgv+YAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T11:12:55.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB06\\LAB06\\LAB06\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LAB06\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WorkSpaces\\LearnIT\\DNU\\Parts\\park-6\\Back-end\\LAB\\LAB06\\LAB06\\LAB06\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LAB06\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAvwLcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:04:22.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

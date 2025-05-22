@@ -1,0 +1,237 @@
+﻿@model Tuple<List<Category>, List<Brand>, List<Product>>
+@{
+	ViewData["Title"] = "Index";
+}
+<div class="row">
+	<div class="col-2">
+		<div class="accordion">
+			<div class="accordion-item">
+				<h2 class="accordion-header">
+					<button class="accordion-button" type="button" data-bstoggle="collapse"
+						data-bs-target="#collapseCategory" aria-expanded="true" ariacontrols="collapseCategory">
+						Category
+					</button>
+				</h2>
+				<div id="collapseCategory" class="accordion-collapse collapse show" aria-labelledby="headingCategory">
+					<div class="accordion-body">
+						<div class="list-group list-group-flush">
+							@foreach (Category category in Model.Item1)
+							{
+								<li class="list-group-item py-0 small" role="button"
+									onclick="fetchProduct({category: '@category.Name'})">@category.Name</li>
+							}
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header">
+					<button class="accordion-button" type="button" data-bstoggle="collapse"
+						data-bs-target="#collapseBrand" aria-expanded="true" ariacontrols="collapseBrand">
+						Brand
+					</button>
+				</h2>
+				<div id="collapseBrand" class="accordion-collapse collapse show" arialabelledby="headingBrand">
+					<div class="accordion-body">
+						<div>
+							@foreach (Brand brand in Model.Item2)
+							{
+								<div class="form-check">
+									<input class="form-check-input brand-checkbox" type="checkbox" value="@brand.Name"
+										onchange="filterBrands()" />
+									<label class="form-check-label" for="brandChecked@(brand.Id)">@brand.Name</label>
+								</div>
+							}
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header">
+					<button class="accordion-button" type="button" data-bstoggle="collapse"
+						data-bs-target="#collapsePrice" aria-expanded="true" ariacontrols="collapsePrice">
+						Price Range
+					</button>
+				</h2>
+				<div id="collapsePrice" class="accordion-collapse collapse show" arialabelledby="headingPrice">
+					<div class="accordion-body">
+						<div class="d-flex">
+							<div class="form-group col-md-6 px-1">
+								<label>Min</label>
+								<input class="form-control" placeholder="$0" type="number">
+							</div>
+							<div class="form-group text-right col-md-6 px-1">
+								<label>Max</label>
+								<input class="form-control" placeholder="$1,0000" type="number">
+							</div>
+						</div>
+						<button onclick="filterRangePrice()" class="btn btn-primary col-12 mt-3">Apply</button>
+						@{}
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header">
+					<button class="accordion-button" type="button" data-bstoggle="collapse"
+							data-bs-target="#collapsePrice" aria-expanded="true" ariacontrols="collapsePrice">
+						Shiping
+					</button>
+				</h2>
+				<div id="collapsePrice" class="accordion-collapse collapse show" arialabelledby="headingPrice">
+					<div class="accordion-body">
+						<div class="d-flex">
+							<div class="form-check">
+								<input class="form-check-input brand-checkbox" id="freeShip" type="checkbox"/>
+								<label class="form-check-label" for="freeShip">Free ship</label>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-10">
+		<div class=" border-bottom d-flex justify-content-between pb-3">
+			<h4 id="count-product" class="m-0">@Model.Item3.Count Items found</h4>
+			
+			<div class="d-flex" role="search">
+				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+					id="search-input">
+				<button class="btn btn-success" type="submit" onclick="search()">
+					Search
+				</button>
+			</div>
+		</div>
+		<div class="row mt-3" id="list-product">
+			@foreach (Product product in Model.Item3)
+			{
+				<div class="col-md-3 mb-3">
+					<div class="card">
+						<img src="@product.ImageUrl" class="img-fluid rounded" alt="@product.Name" />
+						<div class="card-body">
+							<h6>@product.Name</h6>
+							<div class="d-flex flex-row align-items-center mb-1">
+								<h4 class="mb-1 me-1">$@product.SalePrice</h4>
+								<span class="textdanger"><s>$@product.OriginalPrice</s></span>
+							</div>
+							<h6 class="@(product.IsFreeShipping ? "text-success" :
+										  "text-danger")">
+							@(product.IsFreeShipping ? "Free" : "Paid") shipping
+						</h6>
+						<div>
+							<button class="btn btn-primary shadow-0" type="button">
+								Buy this
+							</button>
+							<a href="#!" class="btn btn-light border px-2 pt-2
+icon-hover">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-heart" viewBox="0 0 16 16">
+									<path d="m8 2.748-.717-.737C5.6.281 2.514.878
+1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368
+5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01zM8
+15C-7.333 4.868 3.279-3.04 7.824 1.143q.09.083.176.171a3 3 0 0 1 .176-.17C12.72-3.042
+23.333 4.867 8 15" />
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+						}
+		</div>
+	</div>
+</div>
+<script>
+	function fetchProduct(filters) {
+		var apiUrl = `@Url.Content("~/")Product/Filters?`;
+		for (const key in filters) {
+			if (filters[key]) {
+				apiUrl += `${key}=${encodeURIComponent(filters[key])}&`;
+			}
+		}
+		apiUrl = apiUrl.replace(/&$/, "");
+		fetch(apiUrl)
+			.then((response) => {
+				return response.json();
+			})
+			.then((products) => {
+				let listProduct = document.getElementById("list-product");
+				let content = "";
+				products.forEach(product => {
+					content += `
+						<div class="col-md-3 mb-3">
+							<div class="card">
+								<img src="${product.imageUrl}" class="img-fluid rounded" alt="${product.name}" />
+									<div class="card-body">
+										<h6>${product.name}</h6>
+										<div class="d-flex flex-row align-items-center mb1">
+											<h4 class="mb-1 me-1">$
+												${product.salePrice}
+											</h4>
+												<span class="text-danger">
+												<s>$
+													${product.originalPrice}
+												</s>
+												</span>
+											</div>
+											<h6 class="${product.isFreeShipping ? 'text-success' : 'text-danger'}">
+												${product.isFreeShipping ? 'Free' : 'Paid'} shipping
+											</h6>
+										<div>
+										<button class="btn btn-primary shadow-0" type="button">Buy this</button>
+										<a href="#!" class="btn btn-light border px-2 pt-2 icon-hover">
+											<svg xmlns="http://www.w3.org/2000/svg"
+												width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+												<path d="m8 2.748-.717-.737C5.6.281
+												2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357
+												3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28
+												8.717 2.01zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143q.09.083.176.171a3 3 0 0 1 .176-
+												.17C12.72-3.042 23.333 4.867 8 15" />
+											</svg>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					`;
+				})
+				document.getElementById("count-product").innerHTML =
+					`${products.length} Items found`;
+				listProduct.innerHTML = content;
+			})
+			.catch((error) => {
+				console.log(error)
+			})
+	}
+	function search() {
+		let searchValue = document.getElementById("search-input").value;
+		if (searchValue) {
+			fetchProduct({ searchValue: searchValue });
+		}
+	}
+	function filterBrands() {
+		let selectedBrands = [];
+		document.querySelectorAll(".brand-checkbox").forEach((checkbox) => {
+			if (checkbox.checked) {
+				selectedBrands.push(checkbox.value);
+			}
+		});
+		fetchProduct({ brands: selectedBrands.join(',') });
+	}
+	function filterRangePrice() {
+		let inputRange = document.querySelectorAll("input[type='number']");
+		let minPrice = inputRange[0].value;
+		let maxPrice = inputRange[1].value;
+		fetchProduct({ minPrice: minPrice, maxPrice: maxPrice });
+	}
+
+	let inpFreeShip = document.querySelector("#freeShip");
+	inpFreeShip.onclick = (e) => {
+		if(e.target.checked) {
+			fetchProduct({ isFreeShip: true });
+		}
+		else {
+			fetchProduct({ isFreeShip: false });
+		}
+	}
+</script>
